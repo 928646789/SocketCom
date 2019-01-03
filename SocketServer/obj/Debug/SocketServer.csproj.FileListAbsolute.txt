@@ -1,0 +1,17 @@
+D:\a各种东西\C#\SocketServer\bin\Debug\SocketServer.exe
+D:\a各种东西\C#\SocketServer\bin\Debug\SocketServer.pdb
+D:\a各种东西\C#\SocketServer\obj\Debug\SocketServer.Server.resources
+D:\a各种东西\C#\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+D:\a各种东西\C#\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+D:\a各种东西\C#\SocketServer\obj\Debug\SocketServer.exe
+D:\a各种东西\C#\SocketServer\obj\Debug\SocketServer.pdb
+D:\scbc\C#\SocketServer\obj\Debug\SocketServer.exe
+D:\scbc\C#\SocketServer\obj\Debug\SocketServer.pdb
+D:\scbc\C#\SocketServer\bin\Debug\SocketServer.exe
+D:\scbc\C#\SocketServer\bin\Debug\SocketServer.pdb
+D:\scbc\C#\SocketServer\obj\Debug\SocketServer.Server.resources
+D:\scbc\C#\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+D:\scbc\C#\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+D:\scbc\C#\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+F:\Github\SocketCom\SocketCom\SocketServer\obj\Debug\SocketServer.exe
+F:\Github\SocketCom\SocketCom\SocketServer\obj\Debug\SocketServer.pdb

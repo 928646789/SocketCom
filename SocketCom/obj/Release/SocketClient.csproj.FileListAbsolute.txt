@@ -1,0 +1,7 @@
+D:\scbc\C#\SocketCom\obj\Release\SocketCom.Client.resources
+D:\scbc\C#\SocketCom\obj\Release\SocketCom.Properties.Resources.resources
+D:\scbc\C#\SocketCom\obj\Release\SocketClient.csproj.GenerateResource.Cache
+D:\scbc\C#\SocketCom\bin\Release\SocketCom.exe
+D:\scbc\C#\SocketCom\bin\Release\SocketCom.pdb
+D:\scbc\C#\SocketCom\obj\Release\SocketCom.exe
+D:\scbc\C#\SocketCom\obj\Release\SocketCom.pdb

@@ -1,0 +1,7 @@
+D:\scbc\C#\SocketServer\bin\Release\SocketServer.exe
+D:\scbc\C#\SocketServer\bin\Release\SocketServer.pdb
+D:\scbc\C#\SocketServer\obj\Release\SocketServer.Server.resources
+D:\scbc\C#\SocketServer\obj\Release\SocketServer.Properties.Resources.resources
+D:\scbc\C#\SocketServer\obj\Release\SocketServer.csproj.GenerateResource.Cache
+D:\scbc\C#\SocketServer\obj\Release\SocketServer.exe
+D:\scbc\C#\SocketServer\obj\Release\SocketServer.pdb
